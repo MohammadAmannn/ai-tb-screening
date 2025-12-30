@@ -4,3 +4,4 @@ __pycache__/
 .env
 .cache/
 .tb_detection_model.keras
+.keras
